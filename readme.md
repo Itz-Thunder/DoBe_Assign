@@ -1,4 +1,4 @@
-# DoBe Auth Assignment – Full Stack (NestJS + React + Tailwind)
+# Auth Assignment – Full Stack (NestJS + React + Tailwind)
 
 This is a full-stack authentication project built for the internship assignment at The House of DoBe. It includes:
 
